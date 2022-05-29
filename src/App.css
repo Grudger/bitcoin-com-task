@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.Tooltip {
+  background-color: rgba(52, 52, 52, 0.1);
+  border-radius: 5px;
+  padding: 12px 10px 1px;
+}
