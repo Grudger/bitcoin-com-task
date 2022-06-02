@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:bnmedia="https://news.bitcoin.com/">
+
+<channel>
+	<title>Bitcoin News</title>
+	<atom:link href="https://news.bitcoin.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://news.bitcoin.com</link>
+	<description>Daily Bitcoin News</description>
+	<lastBuildDate>Thu, 02 Jun 2022 04:15:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/cropped-favicon-32x32.png</url>
+	<title>Bitcoin News</title>
+	<link>https://news.bitcoin.com</link>
+	<width>32</width>
+	<height>32</height>
+</image>
+	<item>
+		<title>Study: India Leads the World in NFT Gaming, Fewer P2E Players in Western Countries</title>
+		<link>https://news.bitcoin.com/study-india-leads-the-world-in-nft-gaming-fewer-p2e-players-in-western-countries/</link>
+
+		<dc:creator><![CDATA[Terence Zimwara]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 09:00:02 +0000</pubDate>
+				<category><![CDATA[Metaverse]]></category>
+		<category><![CDATA[NFT adoption]]></category>
+		<category><![CDATA[NFT games]]></category>
+		<category><![CDATA[play to earn]]></category>
+		<category><![CDATA[play-to-earn (P2E)]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529264</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/shutterstock_2139096073.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />India is the global leader in non-fungible token (NFT) gaming, while the number of play-to-earn (P2E) players in developed countries like the U.S. and France is significantly lower than in much of the rest of the world, the latest data from Finder has shown. More People Plan to Play in the Future According to Finder&#x2019;s [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/shutterstock_2139096073.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>India is the global leader in non-fungible token (NFT) gaming, while the number of play-to-earn (P2E) players in developed countries like the U.S. and France is significantly lower than in much of the rest of the world, the latest data from Finder has shown. </strong></p>
+<h2>More People Plan to Play in the Future</h2>
+<p>According to Finder&#x2019;s latest NFT gaming statistics, India is the country with the highest number of respondents (34%) that have played a P2E game. Hong Kong is the next highest country with 29%, while the United Arab Emirates is third with 27%.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-529267" title="Study: India Leads the World in NFT Gaming, Fewer P2E Players in Western Countries" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/nft-gaming.png" alt="Study: India Leads the World in NFT Gaming, Fewer P2E Players in Western Countries" width="863" height="575" srcset="https://static.news.bitcoin.com/wp-content/uploads/2022/06/nft-gaming-300x200.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2022/06/nft-gaming-768x512.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2022/06/nft-gaming.png 863w" sizes="(max-width: 863px) 100vw, 863px"></p>
+<p>While the popularity of P2E games appears to be growing, data from Finder seemingly show a distinction in the level of interest between respondents from Western countries and the rest of the world. To illustrate, in the United States, where nearly 14% of the respondents said they know what P2E is, only 9.4% played at least one game. Only 4.3% of respondents in Sweden admitted to having played.</p>
+<p>However, in the <a href="https://www.finder.com/statistics-nft-games">study</a> wherein Finder sought to determine the NFT gaming habits of internet users in 26 countries, the research firm said it found that more respondents in the U.S. plan to play in the future. Remarking on the scale of the expected growth in the number of U.S. residents that plan to play P2E games in the future, Finder said:</p>
+<blockquote><p>That figure is expected to increase 1.8 times by the end of 2022, with the percentage of people in the US expected to hit 16.5%.</p></blockquote>
+<p>In France, where only 6% of the respondents have played a P2E game, the figure is expected to rise to 15%. The other big movers are Peru (going from 13% to 29%) and Spain (8% to 17%).</p>
+<p style="text-align: center;"></p>
+<h2>Nigeria Leads Africa</h2>
+<p>Meanwhile, the survey also found respondents under the age of 35 to be leading the way in NFT gaming. India again leads in this category with 41.7% while Germany, Sweden, and France all had less than 10%.</p>
+<p>In Africa, only respondents from two countries &#x2014; namely Nigeria and South Africa &#x2014; took part in the study. In Nigeria, 16% of the respondents said they played a P2E game and a further 16.9% plan to do so in the future. In South Africa, about 10.2% said they played an NFT game while 10.6% plan to do the same in the future.</p>
+<p><em><strong>What are your thoughts on this story? Let us what you think in the comments section below. </strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/shutterstock_2139096073.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[The research firm found that more respondents in the U.S. plan to play #P2E games in the future. #nftgames #playtoearn ]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[In Nigeria, 16% of the respondents said they had played a #P2E game and a further 16.9% plan to do so in the future. #p2e]]></bnmedia:late_barker_title>	</item>
+		<item>
+		<title>Singapore&#8217;s Central Bank, DBS, JPMorgan Collaborate to Explore Uses of Digital Assets, Defi</title>
+		<link>https://news.bitcoin.com/singapores-central-bank-dbs-jpmorgan-collaborate-to-explore-uses-of-digital-assets-defi/</link>
+
+		<dc:creator><![CDATA[Kevin Helms]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 06:30:22 +0000</pubDate>
+				<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[DBS bank]]></category>
+		<category><![CDATA[decentralized finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[digital asset tokenization]]></category>
+		<category><![CDATA[jpmorgan]]></category>
+		<category><![CDATA[MAS]]></category>
+		<category><![CDATA[Onyx]]></category>
+		<category><![CDATA[pilot use cases of]]></category>
+		<category><![CDATA[Project Guardian]]></category>
+		<category><![CDATA[Singapore Central Bank]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529351&#038;preview=true&#038;preview_id=529351</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/singapore-deputy-pm.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Singapore’s Central Bank, DBS, JPMorgan Collaborate to Explore Uses of Digital Assets, Defi Under New Project Guardian" loading="lazy" style="float:left; margin:0 15px 15px 0;" />The Monetary Authority of Singapore (MAS) has partnered with major banks and financial services companies to explore the uses of asset tokenization and decentralized finance (defi). DBS Bank and JPMorgan will pilot the first project. Project Guardian Launched The Monetary Authority of Singapore (MAS), the country&#x2019;s central bank, announced Tuesday that it has partnered with [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/singapore-deputy-pm.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Singapore’s Central Bank, DBS, JPMorgan Collaborate to Explore Uses of Digital Assets, Defi Under New Project Guardian" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>The Monetary Authority of Singapore (MAS) has partnered with major banks and financial services companies to explore the uses of asset tokenization and decentralized finance (defi). DBS Bank and JPMorgan will pilot the first project.</strong></p>
+<h2>Project Guardian Launched</h2>
+<p>The Monetary Authority of Singapore (MAS), the country&#x2019;s central bank, announced Tuesday that it has partnered with the financial services industry to launch Project Guardian. The central bank described Project Guardian as &#x201C;a collaborative initiative with the financial industry that seeks to explore the economic potential and value-adding use cases of asset tokenization&#x201D; and decentralized finance (defi).</p>
+<p>Heng Swee Keat, Singapore&#x2019;s deputy prime minister and coordinating minister for economic policies, announced the commencement of Project Guardian Tuesday at the Asia Tech x Singapore Summit.</p>
+<p>&#x201C;The first industry pilot under Project Guardian will explore potential defi applications in wholesale funding markets,&#x201D; the MAS detailed, adding:</p>
+<blockquote><p>The pilot, led by DBS Bank Ltd., JP Morgan, and Marketnode, involves the creation of a permissioned liquidity pool comprising tokenized bonds and deposits.</p></blockquote>
+<p>&#x201C;The pilot aims to carry out secured borrowing and lending on a public blockchain-based network through execution of smart contracts,&#x201D; the MAS continued.</p>
+
+<p>Sopnendu Mohanty, chief fintech officer at the central bank, explained that the MAS is &#x201C;closely monitoring innovations and growth in the digital asset ecosystem and working through the potential opportunities and risks that come with new technologies &#x2014; to consumers, investors, and the financial system at large.&#x201D;</p>
+<p>He noted: &#x201C;The learnings from Project Guardian will serve to inform policy markets on the regulatory guardrails that are needed to harness the benefits of defi while mitigating its risks.&#x201D;</p>
+<p>Han Kwee Juan, head of group planning and strategy at DBS, Southeast Asia&#x2019;s largest bank, commented:</p>
+<blockquote><p>DBS is pleased to lead the charge to explore potential digital assets and use of defi concepts that will enhance efficiency and scalability in trading, clearing, and settlement; while managing risks to financial stability and integrity.</p></blockquote>
+<p><em><strong>What do you think about this initiative? Let us know in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/singapore-deputy-pm.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[Singapore's central bank, DBS Bank, and JPMorgan are collaborating to explore the uses of digital assets and #defi. #crypto #cryptocurrency]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[Singapore's central bank, DBS Bank, and JPMorgan are collaborating to explore the uses of digital assets and #defi. #crypto #cryptocurrency]]></bnmedia:late_barker_title>	</item>
+		<item>
+		<title>Trending Sport NFTs: A Look at Legendary Colombian Soccer Player James Rodríguez’s 1500 NFTs Launch on ZKSea</title>
+		<link>https://news.bitcoin.com/trending-sport-nfts-a-look-at-legendary-colombian-soccer-player-james-rodriguezs-1500-nfts-launch-on-zksea/</link>
+
+		<dc:creator><![CDATA[Bitcoin.com Media]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 05:00:26 +0000</pubDate>
+				<category><![CDATA[Sponsored]]></category>
+		<category><![CDATA[Zkesea]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529411&#038;preview=true&#038;preview_id=529411</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Colombian soccer superstar James David Rodr&#xED;guez Rubio has announced his partnership with ZKSpace to launch the James Rodr&#xED;guez Commemorative Edition NFTs, Zurda (left foot in Spanish), with the presale scheduled for June 15th, 2022. The 1,500 unique pieces are currently the only digital art collections available featuring key highlights from his illustrious career spanning three [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p>Colombian soccer superstar James David Rodr&#xED;guez Rubio has <a href="https://www.instagram.com/p/CeRPvWkLKXP/">announced</a> his partnership with <a href="https://zks.org/">ZKSpace</a> to launch the James Rodr&#xED;guez Commemorative Edition NFTs, Zurda (left foot in Spanish), with the presale scheduled for <b>June 15th, 2022</b>. The 1,500 unique pieces are currently the only digital art collections available featuring key highlights from his illustrious career spanning three continents and celebrating Rodr&#xED;guez&#x2019;s outstanding contribution to the game. Rodr&#xED;guez is amongst the first of many prominent athletes and celebrities to get involved in the digital art space, and his strategic partnership agreement with ZKSpace, the team behind <a href="https://zks.app/mystery/james">ZKSea</a>, is a testament to the quality of the layer 2 NFT minting platform and marketplace.</p>
+<p>Instead of merely turning a digital photo into NFTs, Zurda NFTs are based on exquisite artwork digitally hand-painted by professional artists. The NFT collection will be made up of 4 different rarities comprising <b>1 Platinum, 10 Gold, 400 Silver, and 1,089 Bronze</b>, with each piece entitling the owner to a commemorative moment in Rodr&#xED;guez&#x2019;s career, and top-ranking pieces to be given signed memorabilia, whitelist spots for future NFTs issued on ZKSea, stake-to-earn bonuses, and even the chance to have a video call with James Rodr&#xED;guez himself.</p>
+<p>James Rodr&#xED;guez is one of the greatest Colombian attacking midfielders of all time. Having a magical left foot and being able to play anywhere behind the front line, Mr. Rodr&#xED;guez is regarded as one of the most creative players in the game. His list of honors includes two Champions Leagues, two FIFA Club World Cups, and a World Cup Golden Boot.</p>
+<p>Among the moments captured for the NFTs are his celebrations playing for the Colombian National Team at the 2014 Fifa World Cup against Uraguay, Greece, Japan, and the Ivory Coast and during the 2016 American Cup. Also featured are some close-up shots of his stylish leg tattoos and of legendary goal celebrations such as when playing for Argentina&#x2019;s Banfield against Uruguay in 2010, and a successful free-kick for Real Madrid in 2015.</p>
+<p><a href="https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed-1.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20220601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220601T190003Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=79ab9cb3806f5993009cfc1450def53542f72e27611c1a051ffacb2add42205e"><img loading="lazy" class="aligncenter size-full wp-image-529413" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed-1.jpg" alt="" width="1200" height="675"></a>According to the<a href="https://zkspaceofficial.medium.com/win-scarce-james-rodr%C3%ADguez-zurda-nft-whitelist-fast-track-more-nft-details-disclosed-c2dc178b063"> official announcement</a> by ZKSpace, users on the whitelist are able to mint one of the Silver and Bronze James Rodr&#xED;guez mystery box NFTs from June 15th at a price of 0.12 <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a>, 20% lower than that of the public sale. The public sale starts after the presale, and the prices begin at 0.15 <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> for Silver and Bronze, 0.6 <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> for Gold, and 1 <a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/ETH" target="_blank">ETH</a> for Platinum. The Gold and Platinum NFTs will be sold in the form of an auction.</p>
+<p>Regarding the launch of his NFT collection, James Rodr&#xED;guez said, &#x201C;<i>I am so blessed to be supported by such a wonderful network of fans, and I hope this will be an opportunity for many of them to be a part of my career in the future. For me, this launch has been a wonderful opportunity to look back at all my past achievements and celebrate this incredible journey that soccer has taken me on. I am truly excited to be able to share this with my fans from all around the world.</i>&#x201D;</p>
+<p><a href="https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20220601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220601T190329Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=db23f0cec388f3130773770aa33766686c74da577e114ffe838582e38f2cdd0b"><img loading="lazy" class="aligncenter size-medium_large wp-image-529414" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed-768x480.png" alt="" width="768" height="480" srcset="https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed-300x187.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed-1024x640.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed-768x480.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed.png 1348w" sizes="(max-width: 768px) 100vw, 768px"></a>In releasing an NFT collection, James Rodr&#xED;guez joins a growing number of top athletes and sporting organizations utilizing the emerging technology to better connect with and reward fans. Since market-leader NBA Top Shot began popularizing the digital trading card model, similar variations such as Vayner Sports Pass, Topps, and teams partnering with Chiliz have had great success in building communities around their sport-related digital assets. The James Rodr&#xED;guez Commemorative Edition NFT collection will be an opportunity for Rodr&#xED;guez&#x2019;s nearly 70 million social media followers to get involved and be a part of an amazing <a href="https://discord.com/invite/MJKtaYcYw8">fan community.</a></p>
+<p>NFTs are an integral part of the incoming web 3.0 revolution and will serve as virtual identity badges, displaying to the world what an individual likes and cares about. Due to their scarcity, many NFT collections are often also revered as membership passes to exclusive members-only clubs, building a community around common interests and passions. NFTs are also an opportunity for professional sporting stars and KoLs to better connect with their hardcore fans by raising the barrier to entry and creating a place where only the truly dedicated can connect.</p>
+<p>Alongside the ZKSwap AMM DEX and ZKSquare, a low-cost Layer 2 payment protocol, ZKSea is part of ZKSpace, a full-featured Layer 2 protocol leveraging ZK-Rollups technology to provide users with an ultra-fast, inexpensive, and secure way to transact on Layer 2. ZKSea is also the first ZK-Rollups-based platform supporting Layer 1 to Layer 2 NFT mutual transferring. Having recently introduced its mobile application on both Android and iOS, ZKSpace is committed to lowering the barrier to entry for new users looking to get involved in the blockchain industry and explore the future of Web 3.0.</p>
+<p>&#xA0;</p>
+<p>&#xA0;</p>
+<p>&#xA0;</p>
+<p>&#xA0;</p>
+<hr>
+<p><small><em>This is a sponsored post. Learn how to reach our audience <a href="https://www.bitcoin.com/advertise/" target="_blank" rel="noopener noreferrer">here</a>. Read disclaimer below.</em></small></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/unnamed.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[Trending Sport NFTs: A Look at Legendary Colombian Soccer Player James Rodríguez’s 1500 NFTs Launch on ZKSea]]></bnmedia:barker_title>	</item>
+		<item>
+		<title>Co-Founder of Africa Focused Fintech: Traditional Banks Not Optimized to Serve the Unbanked</title>
+		<link>https://news.bitcoin.com/co-founder-of-africa-focused-fintech-traditional-banks-not-optimized-to-serve-the-unbanked/</link>
+
+		<dc:creator><![CDATA[Terence Zimwara]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 04:30:56 +0000</pubDate>
+				<category><![CDATA[Interview]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[CBDC]]></category>
+		<category><![CDATA[Cross Border Payment]]></category>
+		<category><![CDATA[Eversend]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[Stablecoin]]></category>
+		<category><![CDATA[Stone Atwine]]></category>
+		<category><![CDATA[UST]]></category>
+		<category><![CDATA[Web3]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529278</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/shutterstock_31565884.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />For years, traditional financial institutions in different parts of the world have been attempting to narrow the financial exclusion gap by extending their services to the unbanked population. Yet for many reasons, these institutions still cannot avail their products and services to everyone that needs them. Regulatory Hurdles While there are several reasons cited for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/shutterstock_31565884.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>For years, traditional financial institutions in different parts of the world have been attempting to narrow the financial exclusion gap by extending their services to the unbanked population. Yet for many reasons, these institutions still cannot avail their products and services to everyone that needs them.</strong></p>
+<h2>Regulatory Hurdles</h2>
+<p>While there are several reasons cited for why banks are still not able to do this, their failure to serve this unbanked population has, on the other hand, led to the meteoric rise of fintech startups. Instead of relying on metrics often used by traditional banks when making a decision on whether to open a new branch or not, fintech startups such as <a href="https://eversend.co/">Eversend</a> are often primed to serve even those without regular incomes.</p>
+<p>For individuals like Stone Atwine, a veteran banker who has been <a href="https://www.forbes.com/sites/meghanmccormick/2020/06/17/african-fintech-eversend-embraces-their-mission-of-financial-inclusion-through-crowdfunding/">named</a> in Forbes&#x2019; 30 Under 30 List for Europe, and Technology, the failures of large financial institutions have created opportunities. In addition to explaining why he thinks traditional banks have failed to close the financial exclusion gap, Atwine (co-founder of Eversend) also shared his sentiments on crypto, stablecoins, and Web3 with Bitcoin.com News.</p>
+<p>Below are Atwine&#x2019;s responses to questions sent to him via email.</p>
+<p><strong>Bitcoin.com News (BCN): You have worked for several conventional financial institutions and in different capacities. What can you say about their efforts to extend financial services to the unbanked? Do you see them ever succeeding at this, seeing that it has been several years since they started talking about financial exclusion?</strong></p>
+<p><strong>Stone Atwine (SA):</strong> Traditional banking systems are not optimized for serving people without massive incomes. Branch networks, compliance systems, and limited efficiency do not allow them to serve the unbanked. The economics do not make sense for a traditional bank if they cannot earn a minimum amount of money from customers.</p>
+<p><img loading="lazy" class="aligncenter wp-image-529299" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/photo_2022-06-01-21-14-52.jpeg" alt="" width="300" height="450"></p>
+<p><strong>BCN: In your opinion, why are fintech startups doing a better job of bringing financial services to the excluded?</strong></p>
+<p><strong>SA:</strong> Yes. Promising fintech startups can serve the excluded at a lower cost. But not at the bottom of the pyramid. Startups like Eversend try to help the customer increase their revenue. This is very attractive.</p>
+<p><strong>BCN: Since leaving the employment of banks, you now run a digital-only banking alternative for Africa and African diaspora payments platforms. Can you tell our readers about this digital-only banking alternative?</strong></p>
+<p><strong>SA:</strong> Eversend is the all-in-one payments platform offering mobile-based cross-border P2P payments, virtual cards, stock trading, crypto, and asset-backed credit, focusing on Africa. In addition, Eversend is building crypto-fiat B2B and API-based payments services, including collections, payouts, and currency exchange.</p>
+<p><strong>BCN: What are some of the challenges facing fintech startups such as yours?</strong></p>
+<p><strong>SA:</strong> The main challenge is regulatory compliance. African countries have multiple regulatory regimes, which means different laws and regulations.</p>
+<p><strong>BCN: What do you think is the best use case for the blockchain in Africa and why?</strong></p>
+<p><strong>SA:</strong> There are many great use cases, but the leading one for me is not the most cutting edge like web3 and NFTs but solving a massive problem of cross-border business payments using stablecoins.</p>
+<p style="text-align: center;"></p>
+<p><strong>BCN: The Central African Republic recently became the second country after El Salvador to make bitcoin legal tender. As expected, the decision has divided opinion. Some have argued that it is not possible for a developing country with limited telecommunications infrastructure like the CAR to adopt bitcoin. Others have said the decision shows cryptocurrencies like bitcoin can act as an alternative reserve currency. What is your reaction to these views and sentiments?</strong></p>
+<p><strong>SA:</strong> It may be a great move by the CAR to attract wealth and human capital. Builders like building for supportive regulatory environments. It won&#x2019;t be surprising to see a few companies moving in the build around bitcoin and the lightning network.</p>
+<p>But the criticism of limited electricity and internet access is legitimate as Bitcoin would not necessarily solve problems for the everyday person if access is restricted. That should not stop the CAR or any other country from being a fast and first mover in this space. There are always advantages to this.</p>
+<p><strong>BCN: Others have suggested that adopting stablecoins makes more sense than volatile bitcoin. However, the recent crash of the UST stablecoin appears to have upended this argument too. What is your view on this?</strong></p>
+<p><strong>SA:</strong> Stablecoins need to be auditable and fully backed by fiat currency so that we don&#x2019;t experience value loss when there&#x2019;s a bank run. I do not support the idea of an algorithmic stablecoin today. UST is an example of what could happen.</p>
+<p><strong>BCN: Are central bank digital currencies the answer since cryptocurrencies and now stablecoins all seem to have challenges maintaining a stable value? </strong></p>
+<p><strong>SA:</strong> Central bank digital currencies are an excellent idea for central banks and governments looking to have total control over their citizens. Still, they are not recommendable for the privacy of the said citizens. If I hand you a fiat note, the government will not know about that transaction. But with CBDCs, every single movement of value is recorded. Most people do not have anything to hide, but in my opinion, that would be a massive invasion of privacy.</p>
+<p>Fully-backed stablecoins make a lot of sense.</p>
+<p><em><strong>What are your thoughts about this interview? Let us know in the comments section below. </strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/shutterstock_31565884.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[Stone Atwine said: "#Stablecoins need to be auditable and fully backed by fiat currency so that we don’t experience value loss when there’s a bank run." #fintech #borderlesspayments]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[The Central African Republic's decision to adopt #bitcoin as the country's #legal tender is a great move that will attract wealth and human capital. #bitcoin #legaltender]]></bnmedia:late_barker_title>	</item>
+		<item>
+		<title>Soros Fund&#8217;s CEO: Recession Is Inevitable and Crypto Is Here to Stay</title>
+		<link>https://news.bitcoin.com/soros-funds-ceo-recession-is-inevitable-and-crypto-is-here-to-stay/</link>
+
+		<dc:creator><![CDATA[Kevin Helms]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 02:30:11 +0000</pubDate>
+				<category><![CDATA[Economics]]></category>
+		<category><![CDATA[Dawn Fitzpatrick]]></category>
+		<category><![CDATA[George Soros]]></category>
+		<category><![CDATA[inflation interest rates]]></category>
+		<category><![CDATA[Recession]]></category>
+		<category><![CDATA[Soros Fund recession]]></category>
+		<category><![CDATA[Soros Funds]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529337&#038;preview=true&#038;preview_id=529337</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/soros.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Soros Fund&#039;s CEO: Recession Is Inevitable and Crypto Is Here to Stay" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Soros Fund Management&#x2019;s chief executive and chief investment officer, Dawn Fitzpatrick, says cryptocurrency is here to stay and it&#x2019;s already gone mainstream. She also believes that a recession is inevitable Soros Fund&#x2019;s CEO: Crypto Is Here to Stay Dawn Fitzpatrick, chief executive and chief investment officer of Soros Fund Management, discussed cryptocurrency and the U.S. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/soros.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Soros Fund&#039;s CEO: Recession Is Inevitable and Crypto Is Here to Stay" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>Soros Fund Management&#x2019;s chief executive and chief investment officer, Dawn Fitzpatrick, says cryptocurrency is here to stay and it&#x2019;s already gone mainstream. She also believes that a recession is inevitable</strong></p>
+<h2>Soros Fund&#x2019;s CEO: Crypto Is Here to Stay</h2>
+<p>Dawn Fitzpatrick, chief executive and chief investment officer of Soros Fund Management, discussed cryptocurrency and the U.S. economy in an interview with David Rubenstein, aired Tuesday on Bloomberg. Soros Fund Management was founded in 1970 by George Soros and his former business partner Jim Rogers.</p>
+<p>Fitzpatrick was asked about her view on crypto. Referencing Fidelity&#x2019;s announcement to allow bitcoin investments in 401(k) retirement accounts, she replied:</p>
+<blockquote><p>It&#x2019;s here to stay. I think it&#x2019;s gone mainstream.</p></blockquote>
+<p>The executive added: &#x201C;The one caveat I would say is &#x2026; climate impact is going to become increasingly focused so, in that context, I think ethereum is likely to gain some more traction over bitcoin.&#x201D;</p>
+<p>She also noted, &#x201C;the blockchain technology is going to have some great applications.&#x201D;</p>
+
+<h2>Fitzpatrick on the U.S. Economy and Recession</h2>
+<p>The Soros Fund Management chief shared her thoughts on reports that the U.S. economy shrank in the first quarter of this year. &#x201C;When you look at that GDP number, I think the really important point is the reason it shrank is because of net imports, which were negative, which means we are importing a lot of goods from abroad. And that&#x2019;s because consumer and corporate demand is robust. So I think there&#x2019;s a silver lining in the reading of that GDP number,&#x201D; she explained.</p>
+<p>Replying to a question about whether she thinks a recession is coming, Fitzpatrick said:</p>
+<blockquote><p>There&#x2019;s a lot of discussion about a looming recession and the bottom line is a recession is inevitable. It&#x2019;s a matter of when.</p></blockquote>
+<p>Regarding high inflation and the Federal Reserve raising interest rates, the Soros Fund&#x2019;s executive said: &#x201C;There is no doubt interest rates are going to go higher and the Fed is going to move very very quickly. That said, interest rates net of inflation are still negative, so monetary policy is still really easy.&#x201D;</p>
+<p>She concluded: &#x201C;I don&#x2019;t think we&#x2019;ll avoid a recession. I just think it will be further out than people expect.&#x201D;</p>
+<p><em><strong>What do you think about the comments by Soros Fund&#x2019;s CEO? Let us know in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/soros.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[Soros Fund's CEO says #crypto is here to stay and a #recession is inevitable. #cryptocurrency #bitcoin $BTC]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[Soros Fund's CEO says #crypto is here to stay and a #recession is inevitable. #cryptocurrency #bitcoin $BTC]]></bnmedia:late_barker_title>	</item>
+		<item>
+		<title>JPMorgan CEO Jamie Dimon Warns of Incoming Economic Hurricane — Says &#8216;You Better Brace Yourself&#8217;</title>
+		<link>https://news.bitcoin.com/jpmorgan-ceo-jamie-dimon-warns-of-incoming-economic-hurricane-says-you-better-brace-yourself/</link>
+
+		<dc:creator><![CDATA[Kevin Helms]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 00:30:05 +0000</pubDate>
+				<category><![CDATA[Economics]]></category>
+		<category><![CDATA[economic hurricane]]></category>
+		<category><![CDATA[Jamie Dimon]]></category>
+		<category><![CDATA[Jamie Dimon hurricane]]></category>
+		<category><![CDATA[jpmorgan]]></category>
+		<category><![CDATA[jpmorgan ceo]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529437&#038;preview=true&#038;preview_id=529437</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/jamie-dimon-hurricane.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="JPMorgan CEO Jamie Dimon Warns of Incoming Economic Hurricane — Says &#039;You Better Brace Yourself&#039;" loading="lazy" style="float:left; margin:0 15px 15px 0;" />JPMorgan CEO Jamie Dimon has warned that an economic &#x201C;hurricane&#x201D; is coming. &#x201C;You better brace yourself,&#x201D; he advised. &#x201C;We just don&#x2019;t know if it&#x2019;s a minor one or Superstorm Sandy.&#x201D; Jamie Dimon on the U.S. Economy and QT The CEO of JPMorgan &#038; Chase, Jamie Dimon, warned about an incoming economic hurricane Wednesday at a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/jamie-dimon-hurricane.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="JPMorgan CEO Jamie Dimon Warns of Incoming Economic Hurricane — Says &#039;You Better Brace Yourself&#039;" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>JPMorgan CEO Jamie Dimon has warned that an economic &#x201C;hurricane&#x201D; is coming. &#x201C;You better brace yourself,&#x201D; he advised. &#x201C;We just don&#x2019;t know if it&#x2019;s a minor one or Superstorm Sandy.&#x201D;</strong></p>
+<h2>Jamie Dimon on the U.S. Economy and QT</h2>
+<p>The CEO of JPMorgan & Chase, Jamie Dimon, warned about an incoming economic hurricane Wednesday at a financial conference sponsored by Alliancebernstein Holdings.</p>
+<p>&#x201C;It&#x2019;s a hurricane,&#x201D; Dimon exclaimed. While noting that &#x201C;Right now it&#x2019;s kind of sunny, things are doing fine, everyone thinks the Fed can handle it,&#x201D; the JPMorgan executive stressed:</p>
+<blockquote><p>That hurricane is right out there down the road coming our way. We just don&#x2019;t know if it&#x2019;s a minor one or Superstorm Sandy &#x2026; You better brace yourself.</p></blockquote>
+<p>The JPMorgan chief said in May that there were &#x201C;storm clouds.&#x201D; However, he has now revised his forecast. &#x201C;I said there&#x2019;s storm clouds, they&#x2019;re big storm clouds, they&#x2019;re &#x2014; it&#x2019;s a hurricane,&#x201D; he cautioned. &#x201C;JPMorgan is bracing ourselves and we&#x2019;re going to be very conservative with our balance sheet.&#x201D;</p>
+<p>Dimon is concerned about several key issues. Firstly, the Federal Reserve is expected to reverse its emergency bond-buying programs and shrink its balance sheet, and the quantitative tightening (QT) is scheduled to begin this month.</p>
+<p>The JPMorgan boss opined:</p>
+<blockquote><p>We&#x2019;ve never had QT like this, so you&#x2019;re looking at something you could be writing history books on for 50 years.</p></blockquote>
+<p>He explained that central banks &#x201C;don&#x2019;t have a choice because there&#x2019;s too much liquidity in the system &#x2026; They have to remove some of the liquidity to stop the speculation, reduce home prices and stuff like that.&#x201D;</p>
+
+<p>Dimon is also worried about the Russia-Ukraine war and its impact on commodities, including food and fuel. He warned that oil could potentially hit $150 to $175 a barrel.</p>
+<p>Warning that &#x201C;wars go bad&#x201D; and there are &#x201C;unintended consequences,&#x201D; the executive stressed:</p>
+<blockquote><p>We&#x2019;re not taking the proper actions to protect Europe from what&#x2019;s going to happen to oil in the short run.</p></blockquote>
+<p>Last month, Dimon told Bloomberg that the Federal Reserve should have moved sooner to raise interest rates. He admitted that he is worried about the Fed starting a recession.</p>
+<p>A growing number of people have recently warned of a recession, including the Big Short investor <a href="https://news.bitcoin.com/big-short-investor-michael-burry-warns-of-looming-consumer-recession-more-earnings-trouble/">Michael Burry</a>, Allianz&#x2019;s chief economic advisor <a href="https://news.bitcoin.com/recession-or-prolonged-inflation-the-fed-must-decide-between-two-policy-mistakes-says-economist/">Mohamed El-Erian</a>, and Tesla CEO <a href="https://news.bitcoin.com/elon-musk-were-approaching-a-recession-but-its-actually-a-good-thing/">Elon Musk</a>.</p>
+<p>Blackrock, the world&#x2019;s largest asset manager with nearly $10 trillion under management, recently explained: &#x201C;If they [the Fed] hike interest rates too much, they risk triggering a recession. If they tighten not enough, the risk becomes runaway inflation.&#x201D;</p>
+<p><em><strong>What do you think about JPMorgan CEO Jamie Dimon&#x2019;s warning? Let us know in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/jamie-dimon-hurricane.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA["That hurricane is right out there down the road coming our way," said JPMorgan CEO Jamie Dimon. #recession #inflation]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA["That hurricane is right out there down the road coming our way," said JPMorgan CEO Jamie Dimon. #recession #inflation]]></bnmedia:late_barker_title>	</item>
+		<item>
+		<title>Fidelity Plans Hiring Spree to Expand Crypto Services to Include Ethereum Trading and Custody</title>
+		<link>https://news.bitcoin.com/fidelity-plans-hiring-spree-to-expand-crypto-services-to-include-ethereum-trading-and-custody/</link>
+
+		<dc:creator><![CDATA[Kevin Helms]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2022 22:30:55 +0000</pubDate>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[fidelity bitcoin]]></category>
+		<category><![CDATA[Fidelity crypto]]></category>
+		<category><![CDATA[Fidelity crypto business]]></category>
+		<category><![CDATA[fidelity cryptocurrency]]></category>
+		<category><![CDATA[Fidelity ether]]></category>
+		<category><![CDATA[Fidelity ethereum]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529343&#038;preview=true&#038;preview_id=529343</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/fidelity.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Fidelity Plans Hiring Spree to Expand Crypto Services to Include Ethereum Trading and Custody" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Fidelity is planning a hiring spree to add ether trading and custody services to its cryptocurrency business. &#x201C;As the demand for digital assets continues to steadily grow and the marketplace evolves, we will continue to expand our hiring efforts,&#x201D; a Fidelity executive explained. Fidelity Expanding Crypto Services Fidelity Investments&#x2019; digital assets subsidiary, Fidelity Digital Assets, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/fidelity.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Fidelity Plans Hiring Spree to Expand Crypto Services to Include Ethereum Trading and Custody" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>Fidelity is planning a hiring spree to add ether trading and custody services to its cryptocurrency business. &#x201C;As the demand for digital assets continues to steadily grow and the marketplace evolves, we will continue to expand our hiring efforts,&#x201D; a Fidelity executive explained.</strong></p>
+<h2>Fidelity Expanding Crypto Services</h2>
+<p>Fidelity Investments&#x2019; digital assets subsidiary, Fidelity Digital Assets, is expanding its services.</p>
+<p>Founded in 2018, Fidelity Digital Assets currently employs about 200 people. The company is looking to fill 110 new positions to focus on assets beyond bitcoin, a spokesperson for Fidelity told Reuters Tuesday.</p>
+<p>Tom Jessop, president of Fidelity Digital Assets, commented:</p>
+<blockquote><p>As the demand for digital assets continues to steadily grow and the marketplace evolves, we will continue to expand our hiring efforts.</p></blockquote>
+<p>According to Fidelity&#x2019;s product manager, Terrence Dempsey, Fidelity Digital Assets has around 400 clients, including registered investment advisers, hedge funds, and asset managers.</p>
+<p>So far, the company has only been offering institutional investors the ability to store and trade bitcoin.</p>
+<p>Jessop explained that the new hires will help build out infrastructure to support custody and trading services for ether.</p>
+
+<p>Fidelity&#x2019;s expansion announcement came as the crypto market shed nearly $500 billion over the past month. However, the executive noted that declines in crypto prices have not significantly impacted the firm&#x2019;s business and the company is focused on long-term indicators, such as demand from clients. He was quoted by the Wall Street Journal as saying:</p>
+<blockquote><p>We&#x2019;re trying not to focus on the downturns and focus on some of the long-term indicators &#x2026; We are trying to build infrastructure for the future because we measure success over years and decades, not weeks and months.</p></blockquote>
+<p>Last month, Fidelity Investments <a href="https://news.bitcoin.com/fidelitys-new-401k-product-lets-workers-add-up-to-20-in-bitcoin-to-their-retirement-plans/">announced </a>that it has added bitcoin as an investment option for 401(k) retirement plans.</p>
+<p><em><strong>What do you think about Fidelity expanding its crypto services to include ether trading and custody? Let us know in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/fidelity.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[#Fidelity is planning a hiring spree to add #ether trading and custody services to its #bitcoin business. #cryptocurrency #ethereum $ETH $BTC]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA["We're trying not to focus on the downturns and focus on some of the long-term indicators," said a #Fidelity executive. #crypto #cryptocurrency #ethereum $ETH]]></bnmedia:late_barker_title>	</item>
+		<item>
+		<title>Solana Halts Block Production, Validators Told to Prep for a Restart, Network&#8217;s Decentralization Criticized</title>
+		<link>https://news.bitcoin.com/solana-halts-block-production-validators-told-to-prep-for-a-restart-networks-decentralization-criticized/</link>
+
+		<dc:creator><![CDATA[Jamie Redman]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2022 20:30:38 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[7 hour outage]]></category>
+		<category><![CDATA[Anatoly Yakovenko]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Block Issues]]></category>
+		<category><![CDATA[Block Production]]></category>
+		<category><![CDATA[Block Validators]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Cardano]]></category>
+		<category><![CDATA[cryptos]]></category>
+		<category><![CDATA[Mainnet outage]]></category>
+		<category><![CDATA[PoS]]></category>
+		<category><![CDATA[Proof-of-Stake]]></category>
+		<category><![CDATA[September Outage]]></category>
+		<category><![CDATA[SOL]]></category>
+		<category><![CDATA[SOL Issues]]></category>
+		<category><![CDATA[SOL price]]></category>
+		<category><![CDATA[Solana]]></category>
+		<category><![CDATA[Solana Apps]]></category>
+		<category><![CDATA[Solana blockchain]]></category>
+		<category><![CDATA[Solana consensus]]></category>
+		<category><![CDATA[Solana Mainnet]]></category>
+		<category><![CDATA[Solana Outage]]></category>
+		<category><![CDATA[Solana Status]]></category>
+		<category><![CDATA[Solana Status Twitter]]></category>
+		<category><![CDATA[Solana Uptime]]></category>
+		<category><![CDATA[Solana validators]]></category>
+		<category><![CDATA[Trades]]></category>
+		<category><![CDATA[trading]]></category>
+		<category><![CDATA[Transaction Issues]]></category>
+		<category><![CDATA[Transaction Spam]]></category>
+		<category><![CDATA[uptime]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529419</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/shutterstock_2067283472.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Solana Halts Block Production, Validators Told to Prep for a Restart, Network&#039;s Decentralization Criticized" loading="lazy" style="float:left; margin:0 15px 15px 0;" />On June 1, 2022, the Solana network halted block production again as the blockchain network has stopped working a number of times during the network&#x2019;s lifetime. According to the Solana status update, validator operators are being asked to prepare for a restart. Solana Continues to Be Plagued by Outages, SOL Downtime Denounced by the Crypto [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/shutterstock_2067283472.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Solana Halts Block Production, Validators Told to Prep for a Restart, Network&#039;s Decentralization Criticized" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>On June 1, 2022, the Solana network halted block production again as the blockchain network has stopped working a number of times during the network&#x2019;s lifetime. According to the Solana status update, validator operators are being asked to prepare for a restart.</strong></p>
+<h2>Solana Continues to Be Plagued by Outages, SOL Downtime Denounced by the Crypto Community</h2>
+<p>The blockchain network <a href="https://markets.bitcoin.com/crypto/SOL/">Solana (SOL)</a> is down again as the network has been halted by the development team. The Twitter account Solana Status (@solanastatus) <a href="https://twitter.com/SolanaStatus/status/1532043450107015168?s=20&t=CpD68a63VYgf0CtFvFZbgA">tweeted</a> about the incident on Wednesday at 12:56 p.m. (ET) and the Solana status website also <a href="https://status.solana.com/">explains</a> that block production has been halted.</p>
+<p>&#x201C;Block production on Solana Mainnet Beta has halted. Validator operators should prepare for a restart in mb-validators on Discord,&#x201D; the status details.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Solana has now failed for the 8th time.</p>
+<p>The network is currently halted.</p>
+<p>Trading of the $14 billion asset is still possible on centralized exchanges, which seems to be the primary use case of a constantly failing network. <a href="https://t.co/ZKIVzTlhlQ">https://t.co/ZKIVzTlhlQ</a></p>
+<p>&#x2014; Hector Lopez (@hlopez_) <a href="https://twitter.com/hlopez_/status/1532050515294466048?ref_src=twsrc%5Etfw">June 1, 2022</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The <a href="https://markets.bitcoin.com/crypto/SOL/">Solana (SOL)</a> network has been plagued by a number of outages and its been <a href="https://twitter.com/hlopez_/status/1532050515294466048?s=20&t=dhOm9K--rTHx_eI_8o1BOw">estimated</a> that the proof-of-stake (PoS) blockchain has been down a total of <a href="https://twitter.com/hlopez_/status/1532050515294466048?s=20&t=zbl1SI_kIQq8zLn_zMtjmg">eight times</a>. Bitcoin.com News has reported on a number of Solana&#x2019;s outages and the one that followed Anatoly Yakovenko&#x2019;s (Solana co-founder) recent commentary.</p>
+<p>Yakovenko <a href="https://news.bitcoin.com/solana-co-founder-believes-bitcoin-needs-to-change-to-proof-of-stake-consensus-to-remain-relevant/">claimed</a> last month that &#x201C;If [Bitcoin] eventually doesn&#x2019;t switch to proof-of-stake nobody is going to use it.&#x201D; After the statements, Solana&#x2019;s blockchain <a href="https://news.bitcoin.com/after-solanas-co-founder-said-btc-should-change-its-consensus-algo-solana-mainnet-loses-consensus-for-7-hours/">lost consensus</a> for over seven hours. Bitcoin.com News also <a href="https://news.bitcoin.com/solana-restarts-mainnet-sol-users-complain-dev-says-network-stall-not-similar-to-eth-in-2016/">reported</a> on Solana&#x2019;s <a href="https://news.bitcoin.com/solana-block-production-stalls-for-hours-sol-holders-unable-to-transact-validators-deploy-a-fix/">mid-September outage</a> and the <a href="https://news.bitcoin.com/solana-restarts-mainnet-sol-users-complain-dev-says-network-stall-not-similar-to-eth-in-2016/">debate</a> that surfaced after the blockchain&#x2019;s downtime.</p>
+<p>Solana&#x2019;s development team has <a href="https://news.bitcoin.com/solana-formally-acknowledges-problems-with-high-compute-transactions-clogging-network/">formally acknowledged</a> some of the issues it was dealing with and how it &#x201C;degraded performance.&#x201D; The team blamed &#x201C;high compute transactions, which is reducing network capacity to several thousand transactions per second.&#x201D;</p>
+<p>Of course, with Solana going down again, the comments on social media and crypto related forums have not been kind to the crypto project worth $14 billion. &#x201C;Solana has now failed for the 8th time. The network is currently halted,&#x201D; one individual <a href="https://twitter.com/hlopez_/status/1532050515294466048?s=20&t=7I0MouHVEhR7x_GbRIdSqQ">tweeted</a>. &#x201C;Trading of the $14 billion asset is still possible on centralized exchanges, which seems to be the primary use case of a constantly failing network,&#x201D; the person added.</p>
+
+<p>Bitcoin advocated Dennis Porter <a href="https://twitter.com/Dennis_Porter_/status/1532071419676225536?s=20&t=qw-W2q0VqA-kXJcceK1VCg">wrote</a>: &#x201C;Solana just stopped. Bitcoin can&#x2019;t be stopped. Invest accordingly.&#x201D; According to the <a href="https://www.buybitcoinworldwide.com/bitcoin-uptime/">Bitcoin Uptime Tracker</a>, the Bitcoin network has been functional for 99.98742319836% of its lifetime.</p>
+<p>&#x201C;The diamond hands of Solana are amazing,&#x201D; another person <a href="https://twitter.com/SolanaLegend/status/1532066338306662403?s=20&t=qw-W2q0VqA-kXJcceK1VCg">criticized</a> on Wednesday afternoon. &#x201C;0 NFTs have been listed in the last hour. You can&#x2019;t say the same for any other chain except maybe Terra/LUNA,&#x201D; the individual added.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Too bad Luna v1 failed, UI was amazing</p>
+<p>Ethereum fees kinda expensive</p>
+<p>Solana network is like the ice-cream machine at McDonald's</p>
+<p>&#x2014; Romano (@RNR_0) <a href="https://twitter.com/RNR_0/status/1532076267985510402?ref_src=twsrc%5Etfw">June 1, 2022</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Meanwhile, <a href="https://twitter.com/nftcollector114/status/1532079230166609920?s=20&t=dhOm9K--rTHx_eI_8o1BOw">ethereum</a>, <a href="https://twitter.com/MarketsMickle/status/1532065067205685250?s=20&t=dhOm9K--rTHx_eI_8o1BOw">XRP</a>, and <a href="https://twitter.com/CryptoIRELAND1/status/1532077258667851776?s=20&t=dhOm9K--rTHx_eI_8o1BOw">cardano</a> owners opined why they thought their favorite tokens were way better than Solana. Amid the downtime and at the time of writing, <a href="https://markets.bitcoin.com/crypto/SOL/">solana (SOL)</a> has lost 9.9% in value against the U.S. dollar. Coinbase also <a href="https://twitter.com/Queenkryptop/status/1532062170971787264?s=20&t=hCSdIc2jXsHoid9wrBm8sg">reported</a> on Solana&#x2019;s latest outage and noted that the exchange had to disable send and receives on the network.</p>
+<p><em><strong>What do you think about Solana halting block production and the number of times the network has gone down? Do you think blockchain uptime is important? Let us know what you think about this subject in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/shutterstock_2067283472.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[According to the #Solana status update, network validators are being asked to prepare for a restart. Meanwhile, the network's #decentralization is criticized.]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[According to the #Solana status update, network validators are being asked to prepare for a restart. Meanwhile, the network's #decentralization is criticized.]]></bnmedia:late_barker_title>	</item>
+		<item>
+		<title>Accuweather Collaborates With API3 in Order to Provide Blockchain-Powered Weather Data</title>
+		<link>https://news.bitcoin.com/accuweather-collaborates-with-api3-in-order-to-provide-blockchain-powered-weather-data/</link>
+
+		<dc:creator><![CDATA[Jamie Redman]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2022 18:30:54 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Accuweather]]></category>
+		<category><![CDATA[Accuweather API3]]></category>
+		<category><![CDATA[Accuweather Data]]></category>
+		<category><![CDATA[Airnode]]></category>
+		<category><![CDATA[Airnode infrastructure]]></category>
+		<category><![CDATA[API3]]></category>
+		<category><![CDATA[bitcoinsv]]></category>
+		<category><![CDATA[Blockchain Oracles]]></category>
+		<category><![CDATA[BSV]]></category>
+		<category><![CDATA[Chainlink]]></category>
+		<category><![CDATA[Chainlink Node]]></category>
+		<category><![CDATA[dApps]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Dclimate]]></category>
+		<category><![CDATA[decentralized apps]]></category>
+		<category><![CDATA[Heikki Vänttinen]]></category>
+		<category><![CDATA[Oracle Node]]></category>
+		<category><![CDATA[Oracles]]></category>
+		<category><![CDATA[Reliable Data]]></category>
+		<category><![CDATA[Transparent Data]]></category>
+		<category><![CDATA[Weather Data]]></category>
+		<category><![CDATA[Weathersv]]></category>
+		<category><![CDATA[Web API operators]]></category>
+		<category><![CDATA[Web3]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529336</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/image-2022-06-01-103243.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Accuweather Collaborates With API3 in Order to Provide Blockchain-Powered Weather Data" loading="lazy" style="float:left; margin:0 15px 15px 0;" />On June 1, the American media company that provides commercial weather forecasts, Accuweather, announced it is tethering weather data to blockchain technology by hosting an API3 Airnode. The company revealed that it is collaborating with blockchain oracle provider API3 and Web API operators will be able to access Accuweather&#x2019;s onchain weather data. Accuweather Exec Believes [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/image-2022-06-01-103243.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Accuweather Collaborates With API3 in Order to Provide Blockchain-Powered Weather Data" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><strong>On June 1, the American media company that provides commercial weather forecasts, Accuweather, announced it is tethering weather data to blockchain technology by hosting an API3 Airnode. The company revealed that it is collaborating with blockchain oracle provider API3 and Web API operators will be able to access Accuweather&#x2019;s onchain weather data.</strong></p>
+<h2>Accuweather Exec Believes Blockchain Weather Data Can Make &#x2018;Lasting Impacts Through a Range of Industries&#x2019;</h2>
+<p>According to the company <a href="https://www.accuweather.com/">Accuweather</a>, the firm is hosting its own <a href="https://api3.org/">API3</a> oracle node in order to provide a &#x201C;seamless Web3 wrapper that enables Web API providers to offer Accuweather&#x2019;s world-class weather data directly onchain.&#x201D; The service will give decentralized application (dapp) operators the ability to access weather data via the API3 Airnode infrastructure. Both Accuweather and API3 believe that the collaborative effort will empower people with accurate weather predictions and warnings tied to storms.</p>
+<p>&#x201C;The application and use of Accuweather&#x2019;s weather data, leveraged independently on an API oracle, has the potential to make lasting impacts through a range of industries and even in emerging markets,&#x201D; Paul Lentz, Accuweather&#x2019;s senior vice president of business development said in a statement sent to Bitcoin.com News. &#x201C;As one of the first major weather data and forecast providers to enter the blockchain space, we have a unique view into the demand and usage of the marketplace which puts us on a strong footing as we explore new opportunities for growth and how we can better serve users.&#x201D;</p>
+
+<h2>Accuweather Partnered With Chainlink Last Year, API3 Co-Founder Thinks There&#x2019;s a Great Need for Reliable Blockchain-Powered Weather Data</h2>
+<p>Blockchain and weather data concepts have been around for a few years now and Accuweather <a href="https://www.prnewswire.com/news-releases/accuweather-announces-live-node-on-chainlink-making-weather-based-blockchain-applications-possible-301444689.html">revealed</a> last year it had partnered with Chainlink to provide weather data and insights onchain. The American media company explained at the time that it would be hosting a Chainlink oracle node. The blockchain Bitcoinsv (<a class="lar-automated-link" href="https://markets.bitcoin.com/crypto/BSV" target="_blank">BSV</a>) hosts a weather application called <a href="https://weathersv.app/find">Weathersv</a>. An application called <a href="https://www.dclimate.net/">Dclimate</a> also provides onchain weather metrics and calls itself a decentralized network for climate data. Heikki V&#xE4;nttinen, the co-founder of API3, believes there&#x2019;s a great need for reliable weather data.</p>
+<p>&#x201C;As legacy organizations and new projects alike turn to blockchain technology to enhance or innovate processes, the need for transparent and reliable data has increased tremendously, and Accuweather is a prime example of commitment to bringing value to the decentralized space &#x2013; straight from the source, directly to dapps&#x201D; V&#xE4;nttinen said on Wednesday. &#x201C;We look forward to seeing the positive impacts of the Accuweather API across all sectors, from insurance to lifelike experiences in the metaverse.&#x201D;</p>
+<p><em><strong>What do you think about Accuweather collaborating with API3 in order to provide onchain weather data? Let us know what you think about this subject in the comments section below.</strong></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/image-2022-06-01-103243.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[#Accuweather announced on Wednesday it is tethering weather data to #blockchain technology by hosting an #API3 Airnode.]]></bnmedia:barker_title><bnmedia:late_barker_title><![CDATA[#Accuweather announced on Wednesday it is tethering weather data to #blockchain technology by hosting an #API3 Airnode.]]></bnmedia:late_barker_title>	</item>
+		<item>
+		<title>Creating a Lasting Legacy With Lifestory — Leave a Trace of Yourself Behind</title>
+		<link>https://news.bitcoin.com/creating-a-lasting-legacy-with-lifestory-leave-a-trace-of-yourself-behind/</link>
+
+		<dc:creator><![CDATA[Bitcoin.com Media]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2022 17:00:30 +0000</pubDate>
+				<category><![CDATA[Sponsored]]></category>
+		<category><![CDATA[Lifestory]]></category>
+		<guid isPermaLink="false">https://news.bitcoin.com/?p=529384&#038;preview=true&#038;preview_id=529384</guid>
+
+					<description><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/pic1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" />Leaving a lasting legacy is one of the most important things we can do in life. It&#8217;s not only a way to ensure that we&#8217;re remembered after we die, but it also gives our loved ones a sense of closure and allows them to move on with their lives. Unfortunately, it&#8217;s hard to leave a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<img width="696" height="392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/pic1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /><p><span style="font-weight: 400;">Leaving a lasting legacy is one of the most important things we can do in life. It&#8217;s not only a way to ensure that we&#8217;re remembered after we die, but it also gives our loved ones a sense of closure and allows them to move on with their lives. </span></p>
+<p><span style="font-weight: 400;">Unfortunately, it&#8217;s hard to leave a trace of ourselves after we die. Our memories and legacies usually disappear with us or are left in the hands of family and friends who may not be able to handle them.</span></p>
+<p><span style="font-weight: 400;">But what if there was a way to leave behind a piece of ourselves that would be there forever? A way to ensure that our memories and legacy would be passed down for generations?</span></p>
+<p>Enter Lifestory: <a href="https://www.lifestoryapp.com/">https://www.lifestoryapp.com/ </a></p>
+<p><span style="font-weight: 400;">Lifestory is a new metaverse project that allows users to create a digital legacy that can be passed down to future generations. With Lifestory, you can upload photos, videos, and written stories about your life. You can also choose to have your Lifestory shared with specific people or made public for the world to see. </span></p>
+<p><span style="font-weight: 400;">Lifestory is the perfect way to ensure that your memories and legacy will live on long after you&#8217;re gone. It&#8217;s an easy and efficient way to share your life story with the world and leave a lasting impression.</span></p>
+<h2><span style="font-weight: 400;">Post-Mortem Use Cases of Lifestory</span></h2>
+<p><span style="font-weight: 400;">There are many ways that Lifestory can be used after you die. Here are just a few:</span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><b>Share Your Life Story With Future Generations: </b><span style="font-weight: 400;">You can use Lifestory to share your life story with future generations. This is a great way to ensure that your grandchildren and great-grandchildren will know about your life and the things you&#8217;ve done.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Allow Loved Ones To Grieve:</b><span style="font-weight: 400;"> After you die, your loved ones will want to grieve. Lifestory gives them a place to do that. They can visit your Lifestory and leave messages, photos, and videos. This is a great way for them to express their grief and start to heal. You can also request a virtual burial in the Lifeverse, where you would be marked as dead in the Lifeverse and buried in the graveyard on the Lifeverse. </span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Share Your Life With The World:</b><span style="font-weight: 400;"> If you&#8217;re a public figure or celebrity, you can use Lifestory to share your life with the world. Your fans will be able to visit your Lifestory and see all the things you&#8217;ve done. This is a great way to ensure that your legacy will live on long after you&#8217;re gone. Your private timeline, on the other hand, will only be accessed by your family and friends. </span></li>
+</ol>
+<h2><span style="font-weight: 400;">Don&#8217;t Let Your Memories Die With You — Use Lifestory To Leave A Legacy</span></h2>
+<p><span style="font-weight: 400;">Death isn&#8217;t the most pleasant thing to think about, but it&#8217;s something we all have to face eventually. And when we die, we want to know that our memories and legacy will live on.</span></p>
+<p><span style="font-weight: 400;">Lifestory is the perfect way to ensure that your memories and legacy will be passed down for generations. With Lifestory, you can make sure that your family and friends will always have a way to remember you. </span></p>
+<p><span style="font-weight: 400;">So don&#8217;t let your memories die with you — use Lifestory to leave a legacy.</span></p>
+<h2><a href="https://static.news.bitcoin.com/wp-content/uploads/2022/06/pic2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20220601%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220601T163745Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=600&amp;X-Amz-Signature=e6802f8cf96b36380c325c21d00bb66d7f80b23c4f40b0e09b712485e0041692"><img loading="lazy" class="aligncenter size-full wp-image-529387" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/pic2.jpg" alt="" width="1920" height="1080" /></a><b></b></h2>
+<h2><b>Lifestory ecosystem and NFT technology</b></h2>
+<p><span style="font-weight: 400;">The lifestory Team focused on the NFT technology and implemented different use cases in their ecosystem. The project released a collection of 5,555 unique NFT planets allowing owners to document their memories in the Lifeverse, the immersive metaverse developed by Lifestory.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Know more about this collection on the Discord: </span><a href="https://discord.gg/lifestory"><span style="font-weight: 400;">https://discord.gg/lifestory</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">In the Lifeverse, users can store memories as nonfungible tokens (NFTs). These NFTs can be public or private, stored on something called Timelines. These Timelines can be visited by guests who land their default users&#8217; spaceships on a user’s planet. </span></p>
+<p><a href="https://static.news.bitcoin.com/wp-content/uploads/2022/06/2.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20220601%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220601T164035Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=600&amp;X-Amz-Signature=798f3d9c9f71049831e3dad469f6d3ad499a43cc4c55439c0152ddc78028aaf0"><img loading="lazy" class="wp-image-529389 size-full" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/2.jpg" alt="" width="1280" height="720" /></a>Whitepaper: <a href="https://whitepaper.lifestoryapp.com/whitepaper_en.pdf?utm_source=Webflow&amp;utm_medium=CTA&amp;utm_campaign=None">https://whitepaper.lifestoryapp.com/whitepaper_en.pdf?utm_source=Webflow&amp;utm_medium=CTA&amp;utm_campaign=None </a></p>
+<h2><b>The Lifeverse, VR or keyboard immersive metaverse</b></h2>
+<p><span style="font-weight: 400;">After the selling of the 5,555 planets, users can get spaceships offering them the possibility to travel to a planet, where they will be landing in the planet’s lobby.</span></p>
+<p><span style="font-weight: 400;">The lobby will be a great place to hang out with friends and visit this customizable world. It can be used to access other areas on a planet, such as a museum or the different timelines rooms.</span></p>
+<p><span style="font-weight: 400;">The Lifestory online museum is a modern twist on the traditional museum. It’s a place where people can view their lived or bought moments, special art pieces, and highlights of someone’s journey. </span></p>
+<p><span style="font-weight: 400;">The timeline room will ensure the visitors access to one or multiple timelines of the planet. Some of them will allow users and invited guests to relive the user’s memory or the memories of friends and relatives in the most realistic way. Other timelines might retrace the history of a user’s planet, the bond they have with a brand, or one of their passions.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Lifestory app metaverse : The Lifeverse" width="696" height="392" src="https://www.youtube.com/embed/5KUWk2p35MQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2><b>Moments and skins to showcase one’s life</b></h2>
+<p><span style="font-weight: 400;">Moments are digital anchors that can be anything from photos, videos, 360 videos, audio, or even text. They can be anything someone would imagine. They can be real or fictional and constitute unique digitized memories. Optionally, these moments can be sold to other users via Lifestory’s integrated marketplace. This option will offer unlimited possibilities for content creators and regular users.</span></p>
+<p><span style="font-weight: 400;">Skins are the digital assets that users can use to customize planets, timelines, spaceships and moments. Skins can be sold and bought on the integrated Lifestory app marketplace or eventually used as an investment to make a profit. </span></p>
+<p><a href="https://static.news.bitcoin.com/wp-content/uploads/2022/06/3.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20220601%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220601T164313Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=600&amp;X-Amz-Signature=d5b40f296ba8bf717900a6f98193f86e677f76d1db41524aee4fde54737a5132"><img loading="lazy" class="aligncenter size-full wp-image-529390" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/3.jpg" alt="" width="1280" height="720" /></a></p>
+<h2><b>VR immersive experience</b></h2>
+<p><span style="font-weight: 400;">With the mobile app of Lifestory, users can create timelines and upload 2D moments with depth effects. The app’s virtual reality (VR) capabilities make it a possibility for users to experience memories as if they’re being lived again. </span></p>
+<p><a href="https://static.news.bitcoin.com/wp-content/uploads/2022/06/5.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20220601%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220601T164633Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=600&amp;X-Amz-Signature=05da1cd4b9f69654389d9e792e3020371997ce015fdc19c1f3e97c7173156fdf"><img loading="lazy" class="aligncenter size-full wp-image-529392" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/5.jpg" alt="" width="1280" height="720" /></a></p>
+<h2><b>Shared stories of users</b></h2>
+<p><span style="font-weight: 400;">Lifestory is more than a platform for sharing memories: It’s a new way to experience life and ensure its most complete continuation online. With Lifestory, one can travel back in time, explore other cultures and make new friends worldwide. The Lifestory planets will go on premium presale on 8 June. It is still possible to enter the most premium of the four selling lists, “the Galaxy List.” This is one’s chance to get their hands on one of the 5,555 unique planets and be a part of something extraordinary and innovative, probably one of the NFT collections with the most utilities so far.</span></p>
+<p><a href="https://static.news.bitcoin.com/wp-content/uploads/2022/06/6.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20220601%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220601T164826Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=600&amp;X-Amz-Signature=f503b4404d8cbcae2b6ee77f06eed97d900ec338b4422430f3a7794e7c199a38"><img loading="lazy" class="aligncenter size-full wp-image-529393" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/6.jpg" alt="" width="1280" height="720" /></a></p>
+<p><a href="https://static.news.bitcoin.com/wp-content/uploads/2022/06/4.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYIWLWC3GPQWL5SMB%2F20220601%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220601T164453Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=600&amp;X-Amz-Signature=fa898972079ec91be1ac3bc06762c6ef9795aefdb73df6fefd0239f014bc3efd"><img loading="lazy" class="aligncenter size-full wp-image-529391" src="https://static.news.bitcoin.com/wp-content/uploads/2022/06/4.jpg" alt="" width="1280" height="720" /></a></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Website: </span><a href="http://www.lifestoryapp.com/"><span style="font-weight: 400;">lifestoryapp.com</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Twitter: </span><a href="https://twitter.com/Lifestory_App"><span style="font-weight: 400;">twitter.com/Lifestory_App</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Discord: </span><a href="https://discord.gg/lifestory"><span style="font-weight: 400;">https://discord.gg/lifestory</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Youtube : <a href="https://www.youtube.com/channel/UCUqWGeULzyB03D5ZxuTYaJA">https://www.youtube.com/channel/UCUqWGeULzyB03D5ZxuTYaJA</a></span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Instagram: </span><a href="https://www.instagram.com/lifestory.app/"><span style="font-weight: 400;">https://www.instagram.com/lifestory.app/</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Author: <strong>Jean-Luc Verhest, book author of “Bitcoin: the Blockchain and beyond”, Blockchain Trainer, speaker. Former member of the European commission “blockchain observatory and Forum.”</strong></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p><small><em>This is a sponsored post. Learn how to reach our audience <a href="https://www.bitcoin.com/advertise/" target="_blank" rel="noopener noreferrer">here</a>. Read disclaimer below.</em></small></p>
+]]></content:encoded>
+
+
+
+		<bnmedia:post-thumbnail><bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/pic1.jpg</bnmedia:url><bnmedia:width>760</bnmedia:width><bnmedia:height>428</bnmedia:height></bnmedia:post-thumbnail><bnmedia:barker_title><![CDATA[Creating a Lasting Legacy With Lifestory — Leave a Trace of Yourself Behind]]></bnmedia:barker_title>	</item>
+	</channel>
+</rss>
